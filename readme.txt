@@ -1,3 +1,12 @@
+Lien pour installation et configuration minage raptoreum :
+
+https://crazy-mining.org/en/software/cryptocurrency-miners/cpuminer-gr-download-and-configure-ghost-rider-miner-for-rtm/
+(plus complet)
+
+https://artofpc.com/how-to-mine-raptoreum/
+(moins clair)
+
+--------------------------------------------------------------------------------------------
 Tuning:
 Tuning starts automaticaly with the start of the miner. If previous tuning file `tune_config`
 exists (or `--tune-config=FILE` flag is used), it is used instead. This behavior
